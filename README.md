@@ -1,4 +1,5 @@
-E-Commerce Management System
+#E-Commerce Management System
+
 This project is a basic E-Commerce Management System built with PHP and MySQL. It allows users to manage customers, orders, products, suppliers, shipping details, and reviews through a simple, functional admin dashboard.
 
 Features
